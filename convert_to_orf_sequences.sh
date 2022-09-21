@@ -1,0 +1,1 @@
+orfipy sequence.fasta --dna orfs.fa --min 10 --max 10000 --procs 4 --table 1 --outdir orfs_out
